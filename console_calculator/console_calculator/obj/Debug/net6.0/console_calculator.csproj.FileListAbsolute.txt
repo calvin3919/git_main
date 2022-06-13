@@ -1,0 +1,15 @@
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/bin/Debug/net6.0/console_calculator
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/bin/Debug/net6.0/console_calculator.deps.json
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/bin/Debug/net6.0/console_calculator.runtimeconfig.json
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/bin/Debug/net6.0/console_calculator.dll
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/bin/Debug/net6.0/console_calculator.pdb
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/console_calculator.csproj.AssemblyReference.cache
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/console_calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/console_calculator.AssemblyInfoInputs.cache
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/console_calculator.AssemblyInfo.cs
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/console_calculator.csproj.CoreCompileInputs.cache
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/console_calculator.dll
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/refint/console_calculator.dll
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/console_calculator.pdb
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/console_calculator.genruntimeconfig.cache
+/Users/calvinan/projects/git_main/console_calculator/console_calculator/obj/Debug/net6.0/ref/console_calculator.dll
