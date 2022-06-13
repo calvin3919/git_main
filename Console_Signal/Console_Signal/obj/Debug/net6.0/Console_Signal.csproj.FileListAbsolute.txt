@@ -1,0 +1,15 @@
+/Users/calvinan/projects/Console_Signal/Console_Signal/bin/Debug/net6.0/Console_Signal
+/Users/calvinan/projects/Console_Signal/Console_Signal/bin/Debug/net6.0/Console_Signal.deps.json
+/Users/calvinan/projects/Console_Signal/Console_Signal/bin/Debug/net6.0/Console_Signal.runtimeconfig.json
+/Users/calvinan/projects/Console_Signal/Console_Signal/bin/Debug/net6.0/Console_Signal.dll
+/Users/calvinan/projects/Console_Signal/Console_Signal/bin/Debug/net6.0/Console_Signal.pdb
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/Console_Signal.csproj.AssemblyReference.cache
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/Console_Signal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/Console_Signal.AssemblyInfoInputs.cache
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/Console_Signal.AssemblyInfo.cs
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/Console_Signal.csproj.CoreCompileInputs.cache
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/Console_Signal.dll
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/refint/Console_Signal.dll
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/Console_Signal.pdb
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/Console_Signal.genruntimeconfig.cache
+/Users/calvinan/projects/Console_Signal/Console_Signal/obj/Debug/net6.0/ref/Console_Signal.dll
