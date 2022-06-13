@@ -1,0 +1,15 @@
+/Users/calvinan/projects/name_date/name_date/bin/Debug/net6.0/name_date
+/Users/calvinan/projects/name_date/name_date/bin/Debug/net6.0/name_date.deps.json
+/Users/calvinan/projects/name_date/name_date/bin/Debug/net6.0/name_date.runtimeconfig.json
+/Users/calvinan/projects/name_date/name_date/bin/Debug/net6.0/name_date.dll
+/Users/calvinan/projects/name_date/name_date/bin/Debug/net6.0/name_date.pdb
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/name_date.csproj.AssemblyReference.cache
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/name_date.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/name_date.AssemblyInfoInputs.cache
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/name_date.AssemblyInfo.cs
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/name_date.csproj.CoreCompileInputs.cache
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/name_date.dll
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/refint/name_date.dll
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/name_date.pdb
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/name_date.genruntimeconfig.cache
+/Users/calvinan/projects/name_date/name_date/obj/Debug/net6.0/ref/name_date.dll
